@@ -7,42 +7,20 @@
 Round based, kinda like unbox.
 
 There are fresh apples and rotten ones. Don't eat the rotten ones.
+https://play.google.com/store/apps/details?id=com.davjhan.rps
 
-Every round, 1 rotten apple and 4 fresh apples spawn randomly. The apples move around.
+[iOS APP STORE]
+https://itunes.apple.com/us/app/rps-arcade/id1420634125?ls=1&mt=8
 
-You must tap on 3 fresh ones to advance to the next round.
+Rock Paper Scissors Arcade is a simple game about managing units as they try to convert each other to their own team. Fling units around to keep the peace! If all rocks, papers, or scissors become extinct, it's game over!
 
-You lose when you eat a rotten one.
+Designed and created by David Han.
 
-## Welcome Screen
+Features:
+● Beautiful hand drawn pixel graphics.
+● Unique Gameplay.
+● Captivating Sound design.
+● Simple and intuitive mechanics.
+● 20 un-lockable secrets and easter eggs.
 
-- Tap to start
-
-- Remove Ads. 3.99$ or 500 coins.
-
-- Sound on/off
-
-## Game Screen
-
-- Round indicator
-
-- overlays for new round,  fresh apples, rotten apples.
-
-- Eat button that shows up once an apple is selected.
-
-- Indicators on how many apples left to eat.
-
-#### On Rotten Apple Eaten
-
-All the other apples go poof and the rotten ones turn to coins.
-
-
-## Game Over
-
-You  recieve 1 coin for every rotten apple left. 
-
-- Total Coin indicator
-- Round record indicator
-- Pay 5 coins to play again
-- Watch add to play again.
-
+RPS Arcade contains minimal ads throughout the game. Purchase the 'Remove Ads' item to get the full ad-free experience.
