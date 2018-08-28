@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "954219949407",
+    "firebase_url": "https://rps-arcade.firebaseio.com",
+    "project_id": "rps-arcade",
+    "storage_bucket": "rps-arcade.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:954219949407:android:24f27801f6985e04",
+        "android_client_info": {
+          "package_name": "com.davjhan.rps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "954219949407-0nam9qguu2e8hp1gst96qth4m8sasegv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXyujpAzGPWrpruIkKdMKjNcoOKMnNLc0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

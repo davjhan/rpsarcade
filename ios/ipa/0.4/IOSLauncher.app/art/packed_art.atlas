@@ -1,0 +1,230 @@
+
+packed_art.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+apple
+  rotate: false
+  xy: 170, 385
+  size: 216, 72
+  orig: 216, 72
+  offset: 0, 0
+  index: -1
+bgTile
+  rotate: false
+  xy: 170, 509
+  size: 256, 64
+  orig: 256, 64
+  offset: 0, 0
+  index: -1
+bigCharacters
+  rotate: false
+  xy: 206, 673
+  size: 288, 310
+  orig: 288, 310
+  offset: 0, 0
+  index: -1
+bigNines
+  rotate: false
+  xy: 206, 575
+  size: 384, 96
+  orig: 384, 96
+  offset: 0, 0
+  index: -1
+bigbutton
+  rotate: false
+  xy: 2, 197
+  size: 96, 384
+  orig: 96, 384
+  offset: 0, 0
+  index: -1
+bigconfetti
+  rotate: false
+  xy: 2, 1
+  size: 64, 48
+  orig: 64, 48
+  offset: 0, 0
+  index: -1
+charactercrowns
+  rotate: false
+  xy: 2, 51
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+characters
+  rotate: false
+  xy: 498, 733
+  size: 240, 250
+  orig: 240, 250
+  offset: 0, 0
+  index: -1
+clockIcon
+  rotate: false
+  xy: 390, 421
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+clocktick
+  rotate: false
+  xy: 966, 737
+  size: 48, 32
+  orig: 48, 32
+  offset: 0, 0
+  index: -1
+color
+  rotate: false
+  xy: 2, 125
+  size: 112, 70
+  orig: 112, 70
+  offset: 0, 0
+  index: -1
+design
+  rotate: false
+  xy: 2, 583
+  size: 200, 400
+  orig: 200, 400
+  offset: 0, 0
+  index: -1
+gameover
+  rotate: false
+  xy: 742, 725
+  size: 220, 96
+  orig: 220, 96
+  offset: 0, 0
+  index: -1
+hand
+  rotate: false
+  xy: 890, 681
+  size: 72, 42
+  orig: 72, 42
+  offset: 0, 0
+  index: -1
+handArrow
+  rotate: false
+  xy: 170, 279
+  size: 80, 38
+  orig: 80, 38
+  offset: 0, 0
+  index: -1
+keypadicons
+  rotate: false
+  xy: 102, 219
+  size: 60, 30
+  orig: 60, 30
+  offset: 0, 0
+  index: -1
+largeIcons
+  rotate: false
+  xy: 430, 477
+  size: 120, 96
+  orig: 120, 96
+  offset: 0, 0
+  index: -1
+medIcons
+  rotate: false
+  xy: 254, 293
+  size: 88, 24
+  orig: 88, 24
+  offset: 0, 0
+  index: -1
+newBadge
+  rotate: false
+  xy: 170, 253
+  size: 52, 24
+  orig: 52, 24
+  offset: 0, 0
+  index: -1
+newGameIcon
+  rotate: false
+  xy: 946, 907
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+ninepatches
+  rotate: false
+  xy: 102, 325
+  size: 64, 256
+  orig: 64, 256
+  offset: 0, 0
+  index: -1
+particles
+  rotate: false
+  xy: 966, 771
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+playButtonIcon
+  rotate: false
+  xy: 946, 829
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+secretIcons
+  rotate: false
+  xy: 498, 683
+  size: 192, 48
+  orig: 192, 48
+  offset: 0, 0
+  index: -1
+secrets
+  rotate: false
+  xy: 694, 675
+  size: 192, 48
+  orig: 192, 48
+  offset: 0, 0
+  index: -1
+smallconfetti
+  rotate: false
+  xy: 78, 99
+  size: 32, 24
+  orig: 32, 24
+  offset: 0, 0
+  index: -1
+sparkle
+  rotate: false
+  xy: 170, 319
+  size: 192, 64
+  orig: 192, 64
+  offset: 0, 0
+  index: -1
+swipe
+  rotate: false
+  xy: 170, 459
+  size: 256, 48
+  orig: 256, 48
+  offset: 0, 0
+  index: -1
+tinyIcons
+  rotate: false
+  xy: 102, 251
+  size: 64, 72
+  orig: 64, 72
+  offset: 0, 0
+  index: -1
+tinyprogressbar
+  rotate: false
+  xy: 498, 673
+  size: 24, 8
+  orig: 24, 8
+  offset: 0, 0
+  index: -1
+title
+  rotate: false
+  xy: 742, 823
+  size: 200, 160
+  orig: 200, 160
+  offset: 0, 0
+  index: -1
+vignette
+  rotate: false
+  xy: 554, 541
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
